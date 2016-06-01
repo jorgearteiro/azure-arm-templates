@@ -1,2 +1,1 @@
-# azure-arm-templates
-Azure ARM templates reference and samples
+## Azure ARM Templates reference documentation and samples
